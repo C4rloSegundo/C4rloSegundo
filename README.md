@@ -8,7 +8,7 @@
 
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=C4rloSegundo&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-stats-gold-eta.vercel.app?user=C4rloSegundo&theme=radical&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats-gold-eta.vercel.app/api/top-langs/?username=C4rloSegundo&show_icons=true&theme=radical&layout=compact" />
  </div>
  
