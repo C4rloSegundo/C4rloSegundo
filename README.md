@@ -1,7 +1,7 @@
 ### Olá eu sou Carlos Segundo 
 
 - 🔭 Eu sou formado em desenvolvimento de sistemas pelo senai
-- 🌱 Eu estou no 7º semestre de engenharia da computação
+- 🌱 Eu estou no 8º semestre de engenharia da computação
 - 👯 Eu tenho 22 anos
 
 
