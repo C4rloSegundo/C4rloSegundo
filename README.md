@@ -2,7 +2,7 @@
 
 - 🔭 Eu sou formado em desenvolvimento de sistemas pelo senai
 - 🌱 Eu estou no 8º semestre de engenharia da computação
-- 👯 Eu tenho 22 anos
+- 👯 Eu tenho 23 anos
 
 
 
